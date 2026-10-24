@@ -1,0 +1,7 @@
+[
+    { "question": "What is the primary email address for support?", "expectedPage": 1 },
+    { "question": "How many days notice is required for cancellation?", "expectedPage": 3 },
+    { "question": "What is the penalty for late payment?", "expectedPage": 4 },
+    { "question": "Who is the CEO of the company?", "expectedPage": 2 },
+    { "question": "What are the core operating hours?", "expectedPage": 1 }
+  ]
